@@ -1,3 +1,4 @@
+# lo scarico e provo con VSCode
 # node-mysql-crud-api
 
 Node.js + MySQL - CRUD API Example
